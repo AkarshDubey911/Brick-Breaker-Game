@@ -18,4 +18,3 @@ The objective of the game is to break all the bricks on the screen using a ball 
 * JavaScript: Used to add interactivity to the game, such as handling user input, updating the position of the ball and paddle, and detecting collisions.
   
 
-
